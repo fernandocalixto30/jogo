@@ -1,2 +1,0 @@
-# jogo
-pedra,papel,tesoura!!
